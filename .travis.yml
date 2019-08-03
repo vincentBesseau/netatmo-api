@@ -1,5 +1,6 @@
 dist: trusty
 language: php
+php: 7.1
 addons:
   sonarcloud:
     organization: vincent-besseau
