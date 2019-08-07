@@ -50,7 +50,7 @@ class NetatmoController extends AbstractController
                 'username' => '',
                 'password' => '',
                 'grant_type' => 'password',
-                'scope' => static::SCOPE
+                'scope' => !defined('static::SCOPE') ? '' : static::SCOPE
             ],
         ]);
 

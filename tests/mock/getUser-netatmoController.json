@@ -1,0 +1,20 @@
+{
+  "status": 200,
+  "message": {
+    "body": {
+      "_id": "34324raer2332rea3za",
+      "mail": "titi.toto@gmail.com",
+      "administrative": {
+        "unit": 0,
+        "windunit": 0,
+        "pressureunit": 0,
+        "feel_like_algo": 0,
+        "reg_locale": "fr-FR",
+        "lang": "fr-FR"
+      }
+    },
+    "status": "ok",
+    "time_exec": 0.007380962371826172,
+    "time_server": 1565209019
+  }
+}

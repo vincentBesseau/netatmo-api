@@ -1,0 +1,15 @@
+{
+  "status": 200,
+  "message": {
+    "body": {
+      "beg_time": 1459266027,
+      "value": [
+        14.8,
+        12
+      ]
+    },
+    "status": "ok",
+    "time_exec": 0.49452805519104,
+    "time_server": 1459266934
+  }
+}

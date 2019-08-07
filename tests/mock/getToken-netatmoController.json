@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "message": {
+    "access_token": "3z1123e123f3408fd341l4800|6e94fsd9e4487800df9515b4aab3f81e",
+    "refresh_token": "3z1123e123f3408fd341l4801|6e94fsd9e4587800mf9515b4aab3f81e",
+    "scope": [
+      "read_station"
+    ],
+    "expires_in": 10800,
+    "expire_in": 10800
+  }
+}
